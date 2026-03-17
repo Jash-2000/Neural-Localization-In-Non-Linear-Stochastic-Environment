@@ -1,5 +1,7 @@
 # STDP-Based Particle Filtering as an Attention Mechanism for Transformers
 
+The proposal for this idea is presented in file explaining the relationship and transfer from [Bayesian Filtering to Attension](https://github.com/Jash-2000/Neural-Localization-In-Non-Linear-Stochastic-Environment/blob/main/Literature%20Survery/Attension_Neuromorphic_Particle_Filtering.pdf).
+
 ## Executive summary
 
 This proposal develops a publishable research program that **merges spike-timing–dependent plasticity (STDP), particle filtering (sequential Monte Carlo), and Transformer attention** into a single, theoretically grounded, and experimentally testable framework. The starting point is your draft idea that **(i)** state hypotheses can be represented by spiking populations, **(ii)** spike-timing similarity can act as a measurement-compatibility score, **(iii)** STDP can update hypothesis confidence, and **(iv)** competitive inhibition can serve as a softmax-like normalization—thereby interpreting neuromorphic filtering as attention. fileciteturn0file0 fileciteturn0file1
